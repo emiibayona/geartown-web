@@ -15,7 +15,7 @@ export const NAVIGATION = Object.freeze({
     path: "magic",
     name: "Magic: The Gathering",
     value: "magic",
-    logo: "https://cojhmla8jrdbluto.public.blob.vercel-storage.com/images/logos/magic.png",
+    logo: "https://res.cloudinary.com/drjewh2mu/image/upload/v1779645405/magic_apzb6h.png",
     bg: {
       src: "https://images.ctfassets.net/s5n2t79q9icq/5Zat5j3qjx5diCvkurjKJG/6b3fa29fcd881e4080fd44a9db863bd4/fbnjsdoepqbueupnejiadvsd_1920x700.jpg?q=80",
       position: "top",
@@ -26,7 +26,7 @@ export const NAVIGATION = Object.freeze({
     path: "yugioh",
     name: "Yu-Gi-Oh!",
     value: "yugioh",
-    logo: "https://cojhmla8jrdbluto.public.blob.vercel-storage.com/images/logos/yugioh3.png",
+    logo: "https://res.cloudinary.com/drjewh2mu/image/upload/v1779645406/yugioh3_mlmdud.png",
     bg: {
       src: "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/yugioh-1.jpg?w=1200&h=675&fit=crop",
       position: "center",
@@ -37,7 +37,7 @@ export const NAVIGATION = Object.freeze({
     path: "pokemon",
     name: "Pokemon",
     value: "pokemon",
-    logo: "https://cojhmla8jrdbluto.public.blob.vercel-storage.com/images/logos/pokemon.png",
+    logo: "https://res.cloudinary.com/drjewh2mu/image/upload/v1779645405/pokemon_o9lfp3.png",
     bg: {
       src: "https://champions.pokemon.com/_images/global/header/header-lg.jpg",
       position: "top",
@@ -48,7 +48,7 @@ export const NAVIGATION = Object.freeze({
     path: "riftbound",
     name: "Riftbound",
     value: "riftbound",
-    logo: "https://cojhmla8jrdbluto.public.blob.vercel-storage.com/images/logos/riftbound2.png",
+    logo: "https://res.cloudinary.com/drjewh2mu/image/upload/v1779645406/riftbound2_yoxmps.png",
     bg: { src: "/images/riftbound/rift-banner.png", position: "top" },
   },
 });
