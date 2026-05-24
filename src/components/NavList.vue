@@ -60,8 +60,9 @@
         <!-- <div class="flex flex-col gap-2"> -->
         <div v-if="user" class="flex flex-row items-center gap-2 mb-1">
           <!-- <span>{{ user?.name }}</span> -->
-          <img :src="user?.picture" placeholder="/images/user-logo.png" onerror="javascript:this.src='/images/user-logo.png'"
-            class="h-10 w-10 rounded-full" :class="{ 'h-6 w-6': isMobile }" />
+          <img :src="user?.picture" placeholder="/images/user-logo.png"
+            onerror="javascript:this.src='/images/user-logo.png'" class="h-10 w-10 rounded-full object-cover"
+            :class="{ 'h-6 w-6': isMobile }" />
         </div>
         <!-- <div v-else-if="false" -->
         <div v-else-if="!loadingUser" @click.stop="action(() => {
