@@ -1,4 +1,4 @@
-# GearTown Web
+# GearTown Web | [🔗 Visit](https://geartown.store)
 
 Frontend application for **GearTown**, a Trading Card Game (TCG) platform built to manage products, collections and store operations.
 
@@ -122,3 +122,5 @@ https://github.com/emiibayona/geartown-api
 ## About
 
 This project was built as a personal initiative to solve real-world needs for a local TCG store while experimenting with scalable frontend architecture, reusable components and modern Vue.js development practices.
+
+<img width="1906" height="1240" alt="Screenshot 2026-07-24 at 6 48 59 PM" src="https://github.com/user-attachments/assets/4a325fe4-a09c-444b-9b17-ce636a8282bb" />
